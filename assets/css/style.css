@@ -68,11 +68,27 @@ text-decoration: none;}
     float: clear;    
 }
 
+#container3 {
+    height: 800px;
+    border-top: 1px solid gray;
+    background-image: url("../images/psych.png");
+    float: clear;    
+}
+
+
 #about {
     width: 960px;
     margin: 40px auto;
     background-color: white;
     padding: 20px;
+}
+
+#portimgbox {
+    width: 960px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 20px;
+    }
 }
 
 .abouthead {
@@ -83,7 +99,15 @@ text-decoration: none;}
     color: #4aaaa5;
 }
 
-img {
+.porthead {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: left;
+    color: #4aaaa5;
+}
+
+.aboutimg {
     width: 150px;
     height: 150px;
     float: left;
@@ -151,4 +175,23 @@ img {
     .messagebox {
         background-color: white;
         padding: 20px;
-      } 
+      }
+      
+.image1 {
+    float:left;
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    margin: 0 auto;
+    }
+
+#portimgbox::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.imagebar {
+
+
+}
