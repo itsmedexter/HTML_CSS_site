@@ -62,7 +62,7 @@ a {
 text-decoration: none;}
 
 #container2 {
-    height: 400px;
+    height: 800px;
     border-top: 1px solid gray;
     background-image: url("../images/psych.png");
     float: clear;    
@@ -103,14 +103,20 @@ img {
 }
 
 /* Sample form code */
-
-#maincontent h2 {
+.formhead {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: left;
+    color: #4aaaa5;
+}
+.formname {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     color: #4aaaa5;
     }
 
     .formname {
-      width: 930px;
+      width: 890px;
       padding: 12px;
       border: 1px solid #ccc;
       box-sizing: border-box;
@@ -120,7 +126,7 @@ img {
     }
 
     .formemail {
-      width: 930px;
+      width: 890px;
       padding: 12px;
       border: 1px solid #ccc;
       box-sizing: border-box;
@@ -130,7 +136,7 @@ img {
     }
     
     .formmessage {
-        width: 930px;
+        width: 890px;
         height: 300px;
         padding: 12px;
         border: 1px solid #ccc;
