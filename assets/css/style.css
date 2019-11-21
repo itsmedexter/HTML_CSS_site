@@ -1,6 +1,7 @@
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 1em;
+    background-image: url("../images/psych.png");
 }
 
 #header {
@@ -46,14 +47,14 @@ text-decoration: none;}
 #container2 {
     background-color: grey;
     border-top: 2px solid black;
-    height: 500px;
-    padding-top: 20px;
+    height: auto;
+    padding: 20px 0;
 }
 
 #maincontent {
     margin: auto;
     width: 960px;
-    height: 425px;
+    height: auto<!-- about 425px-->;
     clear: both;
     background-color: white;
     border: 1px solid #dddddd;
@@ -82,3 +83,55 @@ img {
     text-align: center;
     width: 100%;
 }
+
+
+/* Sample form code */
+
+#maincontent h2 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    }
+
+    .formname {
+      width: 930px;
+      padding: 12px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+    }
+
+    .formemail {
+      width: 930px;
+      padding: 12px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+    }
+    
+    .formmessage {
+        width: 930px;
+        height: 300px;
+        padding: 12px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+
+    .formsubmit {
+
+      background-color: #4aaaa5;
+      color: white;
+      padding: 10px 10px;
+      border: none;
+      text-align: center;
+    }
+    .messagebox {
+        background-color: white;
+        padding: 20px;
+      } 
