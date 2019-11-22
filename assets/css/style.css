@@ -10,6 +10,18 @@ p {
     line-height: 1.66em;
 }
 
+img {
+    border: 0;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #4aaaa5;
+}
+
 #wrapper {
     background-color: white;
     height:55px;
@@ -141,28 +153,7 @@ text-decoration: none;}
     }
 
     .formname {
-      width: 930px;
-      padding: 12px;
-      border: 1px solid #ccc;
-      box-sizing: border-box;
-      margin-top: 6px;
-      margin-bottom: 16px;
-      resize: vertical;
-    }
-
-    .formemail {
-      width: 930px;
-      padding: 12px;
-      border: 1px solid #ccc;
-      box-sizing: border-box;
-      margin-top: 6px;
-      margin-bottom: 16px;
-      resize: vertical;
-    }
-    
-    .formmessage {
-        width: 930px;
-        height: 300px;
+        width: 880px;
         padding: 12px;
         border: 1px solid #ccc;
         box-sizing: border-box;
@@ -170,19 +161,44 @@ text-decoration: none;}
         margin-bottom: 16px;
         resize: vertical;
       }
-
-    .formsubmit {
-
-      background-color: #4aaaa5;
-      color: white;
-      padding: 10px 10px;
-      border: none;
-      text-align: center;
-    }
-    .messagebox {
-        background-color: white;
-        padding: 20px;
+  
+      .formemail {
+        width: 880px;
+        padding: 12px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
       }
+      
+      .formmessage {
+          width: 880px;
+          height: 300px;
+          padding: 12px;
+          border: 1px solid #ccc;
+          box-sizing: border-box;
+          margin-top: 6px;
+          margin-bottom: 16px;
+          resize: vertical;
+        }
+  
+      .formsubmit {
+  
+        background-color: #4aaaa5;
+        color: white;
+        padding: 10px 10px;
+        border: none;
+        text-align: center;
+      }
+      .formsubmit:hover {
+          opacity: 70%;
+      }
+
+      .messagebox {
+          background-color: white;
+          padding: 20px;
+        } 
       
       #portimgbox::after {
         content: "";
@@ -196,16 +212,8 @@ text-decoration: none;}
     height: 285px;
     padding: 0 20px 0 0;
     margin: 10px 10px;
+    color: white; 
 }
-
-.image2 {
-    float:left;
-    width: 285px;
-    height: 285px;
-    padding: 0 20px 0 0;
-    margin: 10px 10px;
-}
-
 
 .imagebar {
     font-family:'Georgia', Times, 'Times New Roman', serif;
@@ -220,6 +228,7 @@ text-decoration: none;}
     height: 30px;
     padding:4px 10px;
     margin:0;
+    opacity: 80%;
     background-color: #4aaaa5;
 }
 
