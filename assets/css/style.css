@@ -189,13 +189,21 @@ text-decoration: none;}
     height: 285px;
     padding: 0 20px 0 0;
     margin: 10px 10px;
-    background-color: black;
-    }
+}
+
+.image2 {
+    float:left;
+    width: 285px;
+    height: 285px;
+    padding: 0 20px 0 0;
+    margin: 10px 10px;
+}
+
 
 .imagebar {
-    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 18px;
-    text-emphasis:bold;
+    font-family:'Georgia', Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-emphasis: bold;
     text-align: center;
     color: white;
     position: relative;
@@ -203,10 +211,9 @@ text-decoration: none;}
     left: 0px;
     width: 285px;
     height: 30px;
-    padding:3px 20px 3px 0px;
+    padding:4px 10px;
     margin:0;
-    background-color: purple;
-
+    background-color: #4aaaa5;
 }
 
 .imagebar2 {
