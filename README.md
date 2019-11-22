@@ -29,12 +29,10 @@ Dexter Valencia
 - [Link to Github](https://github.com/itsmedexter)
 - [Link to LinkedIn](https://www.linkedin.com/in/dextervalencia/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License 
 
 ## Acknowledgments
 
-* I would like to thank Kerwin for giving me a better understanding on the clearfix, Mahisha encouraging on floats, and Jerome for sharing the knowledge.
+* I would like to thank Kerwin for giving me a better understanding on the clearfix, Mahisha encouraging on floats, fellow classmates, and Jerome for sharing the knowledge.
