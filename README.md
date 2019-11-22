@@ -1,38 +1,15 @@
 # Project Title
 Portofolio Homework 1
 
-A three page site done with css and html. Coded in VSCode.
+A view on how I would code up a snapshot of a website done using css and html in VSCode.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Open github links to view on browser or repository link for files. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+Any web browser can access or view link, repository. Use source-code editor to view html and css files.
 
 ## Built With
 
@@ -42,16 +19,16 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://itsmedexter.github.io/unit01_homework/)
 
 
 ## Authors
 
-* **YOUR NAME** 
+Dexter Valencia 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Portfolio Site](https://itsmedexter.github.io/unit01_homework/)
+- [Link to Github](https://github.com/itsmedexter)
+- [Link to LinkedIn](https://www.linkedin.com/in/dextervalencia/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -61,6 +38,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* I would like to thank Kerwin for giving me a better understanding on the clearfix, Mahisha encouraging on floats, and Jerome for sharing the knowledge.
