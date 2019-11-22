@@ -3,8 +3,11 @@
 }
 
 body {
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;    
+}
+
+p {
+    line-height: 1.66em;
 }
 
 #wrapper {
@@ -79,10 +82,6 @@ text-decoration: none;}
     float: clear;    
 }
 
-p .aboutp {
-    line-height: 1.6em;
-
-}
 
 #about {
     width: 960px;
