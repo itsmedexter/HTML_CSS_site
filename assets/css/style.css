@@ -69,7 +69,7 @@ text-decoration: none;}
 }
 
 #container3 {
-    height: 800px;
+    height: 1800px;
     border-top: 1px solid gray;
     background-image: url("../images/psych.png");
     float: clear;    
@@ -177,21 +177,33 @@ text-decoration: none;}
         padding: 20px;
       }
       
-.image1 {
-    float:left;
-    width: 300px;
-    height: 300px;
-    padding: 5px;
-    margin: 0 auto;
+      #portimgbox::after {
+        content: "";
+        clear: both;
+        display: table;
     }
 
-#portimgbox::after {
-    content: "";
-    clear: both;
-    display: table;
-}
+.image1 {
+    float:left;
+    width: 285px;
+    height: 285px;
+    padding: 0 20px 0 0;
+    margin: 10px 10px;
+    background-color: black;
+    }
 
 .imagebar {
-
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    text-emphasis:bold;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 285px;
+    height: 30px;
+    padding:3px 20px 3px 0px;
+    margin:10px 10px;
+    background-color: purple;
+    bottom: 20px;
 
 }
