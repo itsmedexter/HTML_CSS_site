@@ -1,5 +1,4 @@
-# Project Title
-Portofolio Homework 1
+# HTML, CSS, practice site
 
 A view on how I would code up a snapshot of a website done using css and html in VSCode.
 
@@ -18,14 +17,14 @@ Any web browser can access or view link, repository. Use source-code editor to v
 
 ## Deployed Link
 
-* [See Live Site](https://itsmedexter.github.io/unit01_homework/)
+* [See Live Site](https://itsmedexter.github.io/HTML_CSS_site/)
 
 
 ## Authors
 
 Dexter Valencia 
 
-- [Link to Portfolio Site](https://itsmedexter.github.io/unit01_homework/)
+- [Link to Portfolio Site](https://github.com/itsmedexter/HTML_CSS_site)
 - [Link to Github](https://github.com/itsmedexter)
 - [Link to LinkedIn](https://www.linkedin.com/in/dextervalencia/)
 
